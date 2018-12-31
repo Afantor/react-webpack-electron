@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/styles/src/styles/style.scss"],"names":[],"mappings":"AAAA,KACE,WACA,WAAW","file":"styles.css","sourcesContent":["#app{\r\n  color: navy;\r\n  margin:auto;\r\n}\r\n\n\n\n// WEBPACK FOOTER //\n// ./src/styles/src/styles/style.scss"],"sourceRoot":""}
